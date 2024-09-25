@@ -9,6 +9,7 @@ bpy.ops.object.mode_set(mode='EDIT', toggle=False)
 with open(file_Path,mode='r',newline='') as f:
     reader = csv.reader(f)
     for row in reader:
+        # !!!add enum to remove head row!!!
         print(row)
 
         obArm = bpy.context.active_object #get the armature object
