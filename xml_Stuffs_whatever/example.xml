@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<exchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://download.autodesk.com/us/navisworks/schemas/nw-exchange-12.0.xsd" units="ft" filename="" filepath="">
+<selectionsets>
+<viewfolder name="Front side of building GL.1A" guid="">
+<viewfolder name="Underground Water feature + inlet" guid="">
+
+    <selectionset name="VH-FS-UW-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-FS</data>
+                </value>
+                </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UW</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-FS-UW-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-FS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UW</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-FS-UW-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-FS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UW</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+<viewfolder name="RC Structure support Water feature" guid="">
+
+    <selectionset name="VH-FS-RC_FS-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-FS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_FS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-FS-RC_FS-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-FS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_FS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-FS-RC_FS-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-FS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_FS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-FS-RC_FS-4" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-FS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_FS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">4</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+
+</viewfolder>
+<viewfolder name="BESIDE GL. Z5" guid="">
+<viewfolder name="RC Structure for Jogging path" guid="">
+
+    <selectionset name="VH-SS-RC_JP-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-SS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_JP</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-SS-RC_JP-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-SS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_JP</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-SS-RC_JP-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-SS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_JP</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+<viewfolder name="Underground Lighting System" guid="">
+
+    <selectionset name="VH-SS-UL-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-SS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UL</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-SS-UL-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-SS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UL</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-SS-UL-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-SS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UL</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+
+</viewfolder>
+<viewfolder name="BACKSIDE GL.18" guid="">
+<viewfolder name="Underground Water feature + inlet" guid="">
+
+    <selectionset name="VH-BS-UW-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UW</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-UW-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UW</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-UW-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UW</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+<viewfolder name="Underground Lighting System" guid="">
+
+    <selectionset name="VH-BS-UL-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UL</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-UL-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UL</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-UL-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UL</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+<viewfolder name="Natural Pond" guid="">
+
+    <selectionset name="VH-BS-NP-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">NP</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-NP-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">NP</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+<viewfolder name="RC Planter" guid="">
+
+    <selectionset name="VH-BS-RC_PL-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_PL</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-RC_PL-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_PL</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-RC_PL-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_PL</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-RC_PL-4" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_PL</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">4</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+<viewfolder name="RC Structure support Hardscape" guid="">
+
+    <selectionset name="VH-BS-RC_HS-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_HS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-RC_HS-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_HS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-RC_HS-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_HS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-BS-RC_HS-4" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-BS</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_HS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">4</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+
+</viewfolder>
+<viewfolder name="LANDSCAPE ZONE" guid="">
+<viewfolder name="Underground Drainage System" guid="">
+
+    <selectionset name="VH-LZ-UD-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UD</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-UD-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UD</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-UD-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UD</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-UD-4" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">UD</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">4</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+<viewfolder name="Bio Pond" guid="">
+
+    <selectionset name="VH-LZ-BP-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">BP</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-BP-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">BP</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-BP-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">BP</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+<viewfolder name="RC.Structure support Hard Scape" guid="">
+
+    <selectionset name="VH-LZ-RC_HS-1" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_HS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">1</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-RC_HS-2" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_HS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">2</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-RC_HS-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_HS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-RC_HS-4" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_HS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">4</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-RC_HS-5" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_HS</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">5</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+<viewfolder name="RC.Jogging part" guid="">
+
+    <selectionset name="VH-LZ-RC_JP-3" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_JP</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">3</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-RC_JP-4" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">RC_JP</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">4</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+<viewfolder name="Pavilion room" guid="">
+
+    <selectionset name="VH-LZ-PV-4" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">PV</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">4</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+    <selectionset name="VH-LZ-PV-5" guid="">
+        <findspec mode="all" disjoint="0">
+        <conditions>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Location_PG_TEXT">sequence_Location</name>
+                </property>
+                <value>
+                <data type="wstring">VH-LZ</data>
+                </value>
+            </condition>
+            <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_Work_PG_TEXT">sequence_Work</name>
+                </property>
+                <value>
+                <data type="wstring">PV</data>
+                </value>
+            </condition>
+                <condition test="equals" flags="10">
+                <category>
+                <name internal="LcRevitData_Custom">Custom</name>
+                </category>
+                <property>
+                <name internal="lcldrevit_parameter_sequence_WorkPart_PG_TEXT">sequence_WorkPart</name>
+                </property>
+                <value>
+                <data type="wstring">5</data>
+                </value>
+                </condition>
+            </conditions>
+        <locator>/</locator>
+        </findspec>
+    </selectionset>
+</viewfolder>
+
+</viewfolder>
+
+</selectionsets>
+</exchange>
