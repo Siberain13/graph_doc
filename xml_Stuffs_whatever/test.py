@@ -1,6 +1,7 @@
 import os  
 from xml.dom import minidom 
 
+#%%funciton
 def create_element(root_a,root_b):
     root_a.appendChild(root_b)
     return 1
@@ -16,6 +17,38 @@ def set_attr(root_b,name,value):
 def create_variable(name, value):
     globals()[name] = value
  
+#%%data
+#Test bed
+# =============================================================================
+# search_list = [['MEP + FINISHING WORK PACKAGE','R',None,None,None,None],
+#                ['1 FL. Finishing work',0,None,None,None,None],
+#                ['Topping Concrete 50 mm',1,None,None,None,None],
+#                ['INT_F1_ALL_TOPPING_1','s','INT_F1','ALL','TOPPING','1'],
+#                ['INT_F1_ALL_TOPPING_2','s','INT_F1','ALL','TOPPING','2'],
+#                ['INT_F1_ALL_TOPPING_3','s','INT_F1','ALL','TOPPING','3'],
+#                ['Inside CB.Wall + Plastering (Exterior wall)',1,None,None,None,None],
+#                ['INT_F1_ALL_CBW_1','s','INT_F1','ALL','CBW','1'],
+#                ['INT_F1_ALL_CBW_2','s','INT_F1','ALL','CBW','2'],
+#                ['INT_F1_ALL_CBW_3','s','INT_F1','ALL','CBW','3'],
+#                ['Zone 1 Office Area',0,None,None,None,None],
+#                [' 1.1 Toilet + WC101',1,None,None,None,None],
+#                ['Concrete Block wall + Plastering',2,None,None,None,None],
+#                ['INT_F1_Z1.1_CBW_1','s','INT_F1','Z1.1','CBW','1'],
+#                ['INT_F1_Z1.1_CBW_2','s','INT_F1','Z1.1','CBW','2'],
+#                ['INT_F1_Z1.1_CBW_3','s','INT_F1','Z1.1','CBW','3'],]
+# =============================================================================
+
+#create search set
+a = [['root4','selectionset','name','VH-FS-UW-1','guid',''],
+     ['root5','category','Custom','test',"equals"],
+     ['root6','findspec','mode','all','disjoint','0'],
+     ['root7','name','internal','LcRevitData_Custom','Custom'],
+     ['root7','name']]
+
+b = [[] for i in a]
+
+
+#%%main
 #import minidom
 root = minidom.Document() 
 
@@ -43,16 +76,6 @@ root2 = root.createElement('viewfolder')
 set_attr(root2,'name','Underground Water feature + inlet')
 set_attr(root2,'guid','')
 append_child(root1,root2)
-
-
-#create search set
-a = [['root4','selectionset','name','VH-FS-UW-1','guid',''],
-     ['root5','category','Custom','test',"equals"],
-     ['root6','findspec','mode','all','disjoint','0'],
-     ['root7','name','internal','LcRevitData_Custom','Custom'],
-     ['root7','name']]
-
-b = [[] for i in a]
 
 for j, item in enumerate(b):
     item.append(create_variable(a[j][0],[]))
