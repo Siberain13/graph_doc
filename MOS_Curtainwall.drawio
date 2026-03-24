@@ -1,0 +1,351 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="QN_ANSXWfmEqG1WUBJrY">
+    <mxGraphModel dx="951" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-102" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="290" y="70" width="610" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-1" target="UfvrPaSpWFgdfEzFHFTV-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;START&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="90" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-36" target="UfvrPaSpWFgdfEzFHFTV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-71" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-39">
+          <mxGeometry x="-0.5278" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-36" target="UfvrPaSpWFgdfEzFHFTV-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="627" y="233" />
+              <mxPoint x="627" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-70" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-51">
+          <mxGeometry x="-0.7301" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-36" value="Req. Scaffold?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="452" y="213" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-38" target="UfvrPaSpWFgdfEzFHFTV-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="381" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-38" value="Erect Scaffold" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320.75" y="273" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-40" target="UfvrPaSpWFgdfEzFHFTV-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-40" value="Study Drawing" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440.75" y="140" width="142.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-49" target="UfvrPaSpWFgdfEzFHFTV-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-49" value="Measure Opening size" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="438.88" y="340" width="146.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-54" target="UfvrPaSpWFgdfEzFHFTV-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-73" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-61">
+          <mxGeometry x="-0.0226" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-54" target="UfvrPaSpWFgdfEzFHFTV-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-72" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-63">
+          <mxGeometry x="-0.2675" y="1" relative="1" as="geometry">
+            <mxPoint x="6" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-54" value="Sizing correct?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="452" y="499" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-57" target="UfvrPaSpWFgdfEzFHFTV-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-57" value="Inspect material" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="438.88" y="588" width="146.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-62" target="UfvrPaSpWFgdfEzFHFTV-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-74" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-65">
+          <mxGeometry x="-0.0062" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-62" target="UfvrPaSpWFgdfEzFHFTV-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-75" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-68">
+          <mxGeometry x="0.4426" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-62" value="Revise sizing?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="629" y="499" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-64" target="UfvrPaSpWFgdfEzFHFTV-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-64" value="Cut Frame to size" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="424" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-67" target="UfvrPaSpWFgdfEzFHFTV-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-67" value="Modify opening" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="758" y="391" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-82" target="UfvrPaSpWFgdfEzFHFTV-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-95" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-85">
+          <mxGeometry x="0.0121" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-82" target="UfvrPaSpWFgdfEzFHFTV-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-96" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-88">
+          <mxGeometry x="0.03" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-82" value="Material follow specs?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="452" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-84" target="UfvrPaSpWFgdfEzFHFTV-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="698" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-84" value="Reject material" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="638" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-87" target="UfvrPaSpWFgdfEzFHFTV-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-87" value="Inspect &lt;br&gt;Storage location" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="438.88" y="761" width="146.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-89" target="UfvrPaSpWFgdfEzFHFTV-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-97" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-93">
+          <mxGeometry x="-0.0216" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-89" target="UfvrPaSpWFgdfEzFHFTV-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-99" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-98">
+          <mxGeometry x="-0.0048" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-89" value="Storage accessible?&lt;div&gt;Has enough capacity?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="447" y="831" width="135.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-90" target="UfvrPaSpWFgdfEzFHFTV-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="698" y="781" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-90" value="Change storage location" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="638" y="831" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="514.5" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-94" value="Store material at storage location" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454.5" y="911" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-104" value="Site Preparation" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="718" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-105" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;START&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="720" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-106" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Finish&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479.51" y="990" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-107" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="910" y="70" width="610" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-109" target="UfvrPaSpWFgdfEzFHFTV-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-109" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;START&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="90" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-118" target="UfvrPaSpWFgdfEzFHFTV-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-118" value="Study Drawing" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1090.75" y="140" width="142.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-155" value="Windows Installation" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="90" width="198" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-157" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Finish&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1342.25" y="732" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-159" target="UfvrPaSpWFgdfEzFHFTV-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-182" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-162">
+          <mxGeometry x="-0.0671" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-159" target="UfvrPaSpWFgdfEzFHFTV-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-183" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UfvrPaSpWFgdfEzFHFTV-168">
+          <mxGeometry x="-0.0317" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-159" value="Is Addition top support require?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="220" width="178" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-161" target="UfvrPaSpWFgdfEzFHFTV-159">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="200" />
+              <mxPoint x="1162" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-161" value="Field weld &lt;br&gt;Steel angle support" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-163" target="UfvrPaSpWFgdfEzFHFTV-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-163" value="Drill hole and install Chemical anchor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085.5" y="332" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-164" target="UfvrPaSpWFgdfEzFHFTV-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1162.969696969697" y="452" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-164" value="Assembly Mullion with Steel support" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085.5" y="396" width="154.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-165" target="UfvrPaSpWFgdfEzFHFTV-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-165" value="Install Mullion to bottom support on Chemical Anchor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085.5" y="461" width="154.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-166" target="UfvrPaSpWFgdfEzFHFTV-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-166" value="Assembly Transom &lt;br&gt;with Gasket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085.5" y="525" width="154.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-172" target="UfvrPaSpWFgdfEzFHFTV-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-172" value="Install Transom on Mullion, secure it with Spring bolt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085.5" y="589" width="154.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-174" target="UfvrPaSpWFgdfEzFHFTV-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-174" value="Adjust Mullion and Transom and alignment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085.5" y="660" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-175" target="UfvrPaSpWFgdfEzFHFTV-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-175" value="Cast None-shrink grout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085.5" y="724" width="154.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-176" target="UfvrPaSpWFgdfEzFHFTV-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-176" value="Install Backing rod and seal with Silicone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085.5" y="789" width="154.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-177" target="UfvrPaSpWFgdfEzFHFTV-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-177" value="Install Metal Trim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085.5" y="853" width="154.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-178" target="UfvrPaSpWFgdfEzFHFTV-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-178" value="Install Membrane sheet &lt;br&gt;with screw" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1085.5" y="917" width="154.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-191" target="UfvrPaSpWFgdfEzFHFTV-193">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-191" value="Insert Glass support into Mullion&#39;s slot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="332" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-193" target="UfvrPaSpWFgdfEzFHFTV-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-193" value="Insert Standing bolt into Mullion&#39;s slot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="396" width="154.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-195" target="UfvrPaSpWFgdfEzFHFTV-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-195" value="Place Glass Panel on support" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="461" width="154.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-197" target="UfvrPaSpWFgdfEzFHFTV-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-197" value="Install Cover C section" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="525" width="154.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-198" target="UfvrPaSpWFgdfEzFHFTV-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-198" value="Install Pressure plate and fasten it to Standing bolt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="589" width="154.5" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UfvrPaSpWFgdfEzFHFTV-201" target="UfvrPaSpWFgdfEzFHFTV-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UfvrPaSpWFgdfEzFHFTV-201" value="Install Covercap" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="659.5" width="154.5" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
